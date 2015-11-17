@@ -1,5 +1,5 @@
 
-Scrum thoughts
+Scrum Thoughts
 
 
 Pair Programming Thoughts

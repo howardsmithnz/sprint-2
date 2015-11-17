@@ -6,5 +6,4 @@ Less Important:
   - use simple and natural dialogue - this seems to be obvious anyway
   
 Surprising:
-  - reduce errors - 
-  - I thought that more error information was better (within reason)
+  - reduce errors - I thought that more error information was better (within reason)

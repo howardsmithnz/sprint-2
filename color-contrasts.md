@@ -1,4 +1,4 @@
-No.  Frgrnd.   Bckgrnd  Normal         Large           Comment
+No.  Foreground   Background  Normal  Large Comment
 
 i    #f0e68c / #fffacd  fail   fail    fail   fail
 

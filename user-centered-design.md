@@ -1,7 +1,7 @@
 
 Key Principles of User Centred Design
 Most Important:
-  - be consistent -an inconsistent interface is very irritating to use
+  - be consistent - an inconsistent interface is very irritating to use
   - reduce unnecessary mental effort by the user - the users are busy with their work, they won't appreciate having to do extra
   
 Less Important:

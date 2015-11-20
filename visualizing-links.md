@@ -14,7 +14,7 @@ What is a "perceived affordance"?
   - This is the quality of an object that suggests what it might be used for. (e.g. blue underlined text might be a link)
 
 When can you safely eliminate underlines for links?
-  - in obvious places such as navigation menus and other lists
+  - In obvious places such as navigation menus and other lists
 
 Should you use blue for text? Why or why not?
   - No. It is generally recognized by most users as being a link

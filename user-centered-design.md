@@ -11,11 +11,14 @@ Surprising:
   - reduce errors - I thought that more error information was better (within reason)
 
 The ROI of User Experience
+
 What suprised me?
-  -That so much money can be lost by bad user experiences
-  -The "stakeholder politics" issue was no surprise!
+
+  - That so much money can be lost by bad user experiences
+  - The "stakeholder politics" issue was no surprise!
   
 Does this change your view of web and software development?
-  -Sooooo.....GOOD User Design must be very valuable...more than I thought
+
+  - Sooooo.....GOOD User Design must be very valuable...more than I thought
   
 What about the other 9 reasons why software projects fail? Hmmm.....
